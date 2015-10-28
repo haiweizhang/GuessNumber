@@ -32,5 +32,6 @@ public class GuessNumber {
                     bCount++;
         }
         return (aCount + "a" + bCount + "b");
+        
     }
 }
